@@ -7,11 +7,11 @@ These remapping took inspiration for from tpope's vim-commentary and vim-surroun
 ## Mappings
 
 ```
- Action                          Mappings
+ Action                         Mappings
  
- open new tab                    yo\<TAB\>
+ open new tab                   yo<TAB>
  
- close tab                       yd\<TAB\>
+ close tab                      yd<TAB>
  
  open new buffer (window)        yonw
  
