@@ -1,5 +1,5 @@
 "--------------------------------------------------------------------
-" Name Of File: yankee.vim.
+" Name Of File: open-season.vim.
 " Description: Uses yank in a different way; to open and close files.
 " By: JTBake490
 " Credits: Inspiration from tpope's vim-commentary and vim-surrond.
