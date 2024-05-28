@@ -25,7 +25,7 @@ These remapping took inspiration for from tpope's vim-commentary and vim-surroun
  
  close buffer                    ydb
  
- open vertical terminal          yot
+ open vertical terminal         yot
  
  open netrw buffer               yoe
  
