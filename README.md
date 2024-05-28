@@ -1,4 +1,4 @@
-# yankee
+# Open-Season
 
 My personal normal mode remappings to open files (and directories) by yanking them open.
 I never intend to disable these keybindings; thus I have not setup a toggle.
